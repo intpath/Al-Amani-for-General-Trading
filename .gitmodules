@@ -1,0 +1,4 @@
+[submodule "yousifkamonah/s2u_online_appointment"]
+	path = yousifkamonah/s2u_online_appointment
+	url = git@github.com:yousifkamonah/s2u_online_appointment.git
+	branch = main
